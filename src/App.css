@@ -89,7 +89,7 @@ nav ul a {
 
 /* Banner Styles */
 header {
-    background-image: url(/static/media/6649462.37cad6856c2341318026.jpg);
+    background-image: url("../src/assets/6649462.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     color: #46f98b;
